@@ -1,0 +1,60 @@
+CVE-2021-3156,https://github.com/RodricBr/CVE-2021-3156,CVE-2021-3156
+cve-2021-21300,https://github.com/Jiang59991/cve-2021-21300,
+CVE-2021-4034,https://github.com/Hifumi1337/CVE-2021-4034,Local Privilege Escalation (LPE) vulnerability found on Polkit's pkexec utility
+CVE-2021-31166,https://github.com/mauricelambert/CVE-2021-31166,"CVE-2022-31166: exploitation with Powershell, Python, Ruby, NMAP and Metasploit."
+CVE-2021-39165,https://github.com/W0rty/CVE-2021-39165,Github repository which contains a functional exploit for CVE-2021-39165
+CVE-2021-45008,https://github.com/AS4mir/CVE-2021-45008,
+CVE-2021-45007,https://github.com/AS4mir/CVE-2021-45007,Cross-Site Request Forgery
+noPac,https://github.com/Ridter/noPac,Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user 
+CVE-2021-21983,https://github.com/murataydemir/CVE-2021-21983,[CVE-2021-21983] VMware vRealize Operations (vROps) Manager API Arbitrary File Write Leads to Remote Code Execution (RCE)
+frameworks_base-CVE-2021-0595,https://github.com/pazhanivel07/frameworks_base-CVE-2021-0595,
+Settings-CVE-2021-0595,https://github.com/pazhanivel07/Settings-CVE-2021-0595,
+CVE-2021-43008-AdminerRead,https://github.com/p0dalirius/CVE-2021-43008-AdminerRead,Exploit tool for CVE-2021-43008 Adminer 1.0 up to 4.6.2 Arbitrary File Read vulnerability 
+CVE-2021-43798-Grafana,https://github.com/k3rwin/CVE-2021-43798-Grafana,CVE-2021-43798 Grafana任意文件读取
+skeleton,https://github.com/aemmitt-ns/skeleton,Skeleton (but pronounced like Peloton): A Zero-Click RCE exploit for CVE-2021-0326
+codeql-sample-polkit,https://github.com/hohn/codeql-sample-polkit,All stages of exploring the polkit CVE-2021-4034 using codeql
+desc_race,https://github.com/Dylbin/desc_race,desc_race exploit for iOS 15.0 - 15.1.1 (with stable kernel r/w primitives) (CVE-2021-30955) 
+CVE-2021-29441,https://github.com/bysinks/CVE-2021-29441,
+ka-cve-2021-21341,https://github.com/Mani1325/ka-cve-2021-21341,
+CVE-2021-4034,https://github.com/TomSgn/CVE-2021-4034,pkexec --> privilege escalation
+CVE-2021-33193,https://github.com/jeremy-cxf/CVE-2021-33193,PoC for CVE-2021-33193
+CVE-2021-41773,https://github.com/Fa1c0n35/CVE-2021-41773,
+log4j2-test,https://github.com/mklinkj/log4j2-test,Log4j2 LDAP 취약점 테스트 (CVE-2021-44228)
+CVE-2021-44228-Mass-RCE,https://github.com/razz0r/CVE-2021-44228-Mass-RCE,CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists.
+desc_race_A15,https://github.com/markie-dev/desc_race_A15,CVE-2021-30955 iOS 15.1.1 POC for 6GB RAM devices (A14-A15)
+CVE-2021-42013,https://github.com/mauricelambert/CVE-2021-42013,"These Nmap, Python and Ruby scripts detects and exploits CVE-2021-42013 with RCE and local file disclosure."
+CVE-2021-41773,https://github.com/mauricelambert/CVE-2021-41773,"These Metasploit, Nmap, Python and Ruby scripts detects and exploits CVE-2021-41773 with RCE and local file disclosure."
+CVE-2021-35587,https://github.com/antx-code/CVE-2021-35587,Oracle Access Manager Unauthenticated Attacker Vulnerability CVE-2021-35587
+CVE-2021-44228-vuln-app,https://github.com/cryst4lliz3/CVE-2021-44228-vuln-app,
+CVE-2021-44228,https://github.com/cryst4lliz3/CVE-2021-44228,
+CVE-2021-22205,https://github.com/cryst4lliz3/CVE-2021-22205,
+rcedit,https://github.com/electron/rcedit,Command line tool to edit resources of exe
+SMBGhost_RCE_PoC,https://github.com/chompie1337/SMBGhost_RCE_PoC,
+rce,https://github.com/rapyuta-robotics/rce,A Cloud Robotics Platform
+redis-rce,https://github.com/Ridter/redis-rce,Redis 4.x/5.x RCE
+sunlogin_rce,https://github.com/Mr-xn/sunlogin_rce,向日葵 RCE
+thinkphp-RCE-POC-Collection,https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection,thinkphp v5.x 远程代码执行漏洞-POC集合
+dingtalk-RCE,https://github.com/crazy0x70/dingtalk-RCE,
+Windows-RCE-exploits,https://github.com/smgorelik/Windows-RCE-exploits,"The exploit samples database is a repository for **RCE** (remote code execution) exploits and Proof-of-Concepts for **WINDOWS**, the samples are uploaded for education purposes for red and blue teams."
+shiro_rce_tool,https://github.com/wyzxxz/shiro_rce_tool,shiro 反序列 命令执行辅助检测工具
+redis-rogue-server,https://github.com/n0b0dyCN/redis-rogue-server,Redis(<=5.0.5) RCE
+Java-Rce-Echo,https://github.com/feihong-cs/Java-Rce-Echo,Java RCE 回显测试代码
+awesome-jenkins-rce-2019,https://github.com/orangetw/awesome-jenkins-rce-2019,"There is no pre-auth RCE in Jenkins since May 2017, but this is the one!"
+SMBGhost,https://github.com/ly4k/SMBGhost,Scanner for CVE-2020-0796 - SMBv3 RCE
+weblogic_cmd,https://github.com/5up3rc/weblogic_cmd,weblogic t3 deserialization rce
+ms-teams-rce,https://github.com/oskarsve/ms-teams-rce,
+CVE-2020-0796-RCE-POC,https://github.com/ZecOps/CVE-2020-0796-RCE-POC,CVE-2020-0796 Remote Code Execution POC
+cisco-rce,https://github.com/artkond/cisco-rce,CVE-2017-3881 Cisco Catalyst Remote Code Execution PoC
+TDOA_RCE,https://github.com/xinyu2428/TDOA_RCE,通达OA综合利用工具
+jenkins-rce,https://github.com/petercunha/jenkins-rce,":smiling_imp: Jenkins RCE PoC. From unauthenticated user to remote code execution, it's a hacker's dream!"
+acunetix_0day,https://github.com/dzonerzy/acunetix_0day,Acunetix 0day RCE
+RCEScanner,https://github.com/mhaskar/RCEScanner,Simple python script to extract unsafe functions from php projects
+redis-rogue-server,https://github.com/Dliv3/redis-rogue-server,Redis 4.x/5.x RCE
+JRE8u20_RCE_Gadget,https://github.com/pwntester/JRE8u20_RCE_Gadget,JRE8u20_RCE_Gadget
+rce-bug,https://github.com/greekn/rce-bug,新漏洞感知项目 主要帮助大家 记录一些重大漏洞 漏洞方面的细节
+RCEvil.NET,https://github.com/Illuminopi/RCEvil.NET,
+ios_15_rce,https://github.com/jonathandata1/ios_15_rce,Remote Code Execution V1 For iOS 15 sent through airdrop after the device was connected to a trusted host
+cisco-snmp-rce,https://github.com/artkond/cisco-snmp-rce,Cisco IOS SNMP RCE PoC
+tp5-getshell,https://github.com/theLSA/tp5-getshell,thinkphp5 rce getshell
+ReverseRDP_RCE,https://github.com/klinix5/ReverseRDP_RCE,
+SAP_GW_RCE_exploit,https://github.com/chipik/SAP_GW_RCE_exploit,SAP Gateway RCE exploits
